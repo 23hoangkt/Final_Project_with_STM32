@@ -54,7 +54,7 @@ The distance measurement and obstacle avoidance system is designed based on the 
 
 ```c
 #define SLAVE_ADDRESS_LCD 0x27
-
+```
 
 # Results
 <p align="center">  
