@@ -19,7 +19,8 @@ Hệ thống đo khoảng cách và tránh vật cản được thiết kế d�
 
 4. **Chức năng của LED**:
    - Sử dụng `getTick()` để tránh hệ thống bị treo (blocking).
-
+5. **Điều khiển động cơ**
+   - Sử dụng driver L298N để điều khiển 2 động cơ, sử dụng PWM cấp xung cho 2 chân ENA, ENB, nếu muốn, chỉ cần cấp cung cho IN1 và IN3.
 ---
 
 ## Đầu vào
@@ -45,16 +46,6 @@ Hệ thống đo khoảng cách và tránh vật cản được thiết kế d�
     - `0`: Không có vật cản.
     - `1`: Có vật cản.
   - Hiển thị khoảng cách đến vật cản.
-
----
-
-## Chi tiết kỹ thuật
-
-- **Timer**:
-  - Sử dụng cho cảm biến HC-SR04.
-  
-- **getTick() & sysTick**:
-  - Được sử dụng để xử lý các button nhằm tránh blocking trong hệ thống.
 
 ---
 
