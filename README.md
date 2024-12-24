@@ -58,23 +58,23 @@ Hệ thống đo khoảng cách và tránh vật cản được thiết kế d�
 ## Sơ đồ nối các chân
 
 **Cảm biến**
-- TRIG: PA9
-- ECHO: PA10
+- TRIG      PA9
+- ECHO      PA10
 
 **Các LED**
-- LED_Green: PA6
-- LED_RED: PA7
+- LED_Green PA6
+- LED_RED   PA7
 
 **BUTTON**
 - PC13  
 
 **Driver L298N**
-- IN1_PIN: PA0  
-- IN2_PIN: PA1  
-- ENA: PA5
-- IN3_PIN: PA4  
-- IN4_PIN: PB0  
-- ENB: PB7
+- IN1_PIN PA0  
+- IN2_PIN PA1  
+- ENA     PA5
+- IN3_PIN PA4  
+- IN4_PIN PB0  
+- ENB     PB7
 
 ```c
 #define SLAVE_ADDRESS_LCD 0x27
