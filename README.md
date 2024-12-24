@@ -65,5 +65,9 @@ Hệ thống đo khoảng cách và tránh vật cản được thiết kế d�
 
 ## Kết quả
 <p align="center">  
-  <img src="car.jpg" alt="Pin Connection Diagram" width="600"/>  
+  <img src="car1.jpg" alt="Robot" width="600"/>  
+</p> 
+
+<p align="center">  
+  <img src="lcd.jpg" alt="" width="600"/>  
 </p> 
