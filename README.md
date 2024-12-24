@@ -65,7 +65,7 @@ Hệ thống đo khoảng cách và tránh vật cản được thiết kế d�
 
 ## Kết quả
 <p align="center">  
-  <img src="car_1.jpg" alt="Robot" width="600"/>  
+  <img src="car_1.png" alt="Robot" width="600"/>  
 </p> 
 
 <p align="center">  
