@@ -62,5 +62,6 @@ Hệ thống đo khoảng cách và tránh vật cản được thiết kế d�
 
 ## Kết quả
 
-![Kết quả hoạt động](ket_qua.png)
+![Kết quả hoạt động](car.png)
+![Kết quả hoạt động](car.png)
 
