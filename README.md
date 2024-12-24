@@ -56,7 +56,7 @@ The distance measurement and obstacle avoidance system is designed based on the 
 #define SLAVE_ADDRESS_LCD 0x27
 
 
-## Results
+# Results
 <p align="center">  
   <img src="car_1.png" alt="Robot" width="600"/>  
 </p> 
