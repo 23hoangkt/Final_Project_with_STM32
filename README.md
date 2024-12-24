@@ -51,18 +51,19 @@ Hệ thống đo khoảng cách và tránh vật cản được thiết kế d�
 
 ## Sơ đồ hệ thống
 
-![Sơ đồ hệ thống](overview.png)
-
-
+<p align="center">  
+  <img src="overview.png" alt="Pin Connection Diagram" width="600"/>  
+</p> 
 
 ## Sơ đồ nối các chân
 
-![Sơ đồ nối các chân](.png)
+<p align="center">  
+  <img src="3.png" alt="Pin Connection Diagram" width="600"/>  
+</p> 
 
 ---
 
 ## Kết quả
-
-![Kết quả hoạt động](car.jpg)
-![Kết quả hoạt động](lcd.jpg)
-
+<p align="center">  
+  <img src="car.jpg" alt="Pin Connection Diagram" width="600"/>  
+</p> 
